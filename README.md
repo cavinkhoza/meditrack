@@ -40,8 +40,9 @@ cd MediTrack
 open index.html  # On Mac
 start index.html # On Windows
 
-## 🛠️ Project Structure
+
 ```
+## 🛠️ Project Structure
 MediTrack/
 ├── assets/           # Static assets
 │   ├── css/          # Stylesheets
